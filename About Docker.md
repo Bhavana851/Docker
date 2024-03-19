@@ -1,3 +1,6 @@
+This is my notes for my understanding of Docker. It should help anyone who is getting started with Docker.
+
+
 ## 1.Difference Between Virtualization and Containerization 
 
 **Virtualization:**
