@@ -1,11 +1,12 @@
-```# 1.Run - tag```
+```1.Run - tag```
 
-```# 2.Run - stdin```
+```2.Run - stdin```
 
-```# 3.Run - Port mapping```
+```3.Run - Port mapping```
 
-```# 4.Run - Volume mapping```
+```4.Run - Volume mapping```
 
 Inspect Container 
+
 Container Logs 
 
